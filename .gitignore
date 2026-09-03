@@ -1,0 +1,24 @@
+# Xcode
+DerivedData/
+build/
+*.xcresult
+
+# Xcode per-user state — never shared. The project's own
+# `CoffeeDemo.xcodeproj/project.xcworkspace/contents.xcworkspacedata` stays
+# tracked; only per-user data inside any workspace/project is ignored.
+*.xcuserstate
+**/xcuserdata/
+
+# Swift Package Manager local state
+.swiftpm/
+.build/
+
+# 3D models — third-party assets, not redistributed with this repo (see README).
+*.usdz
+
+# Screen recordings / large media (uploaded as README assets instead)
+*.mov
+*.mp4
+
+# macOS
+.DS_Store
