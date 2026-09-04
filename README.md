@@ -10,6 +10,8 @@ y cómo se separa la lógica de navegación en un tipo de valor probado.
 > **Los modelos 3D no vienen en el repo.** Los `.usdz` que usaba la demo son assets de
 > terceros y no se pueden redistribuir. Ver [Cómo probar la app](#cómo-probar-la-app).
 
+<img width="1257" height="677" alt="CoffeeDemo" src="https://github.com/user-attachments/assets/cbdb41eb-2115-4fd7-8bff-879f0b0690d3" />
+
 ---
 
 ## Tecnologías usadas
